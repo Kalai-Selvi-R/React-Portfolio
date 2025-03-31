@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86b5b6b1.css",
+    "main.js": "/static/js/main.b84f9688.js",
+    "static/media/about.png": "/static/media/about.4cd43ff66615bb411942.png",
+    "static/media/recipe-page.jpg": "/static/media/recipe-page.3eda0bb890946b862fc0.jpg",
+    "static/media/kalai.png": "/static/media/kalai.219ccb1e1a2e1a6670d5.png",
+    "static/media/calculator-website.webp": "/static/media/calculator-website.3f713263848cd8737b29.webp",
+    "static/media/resume.avif": "/static/media/resume.9231a20115ec7d0b91bf.avif",
+    "static/media/notepad.avif": "/static/media/notepad.c330ba3b50589eeb5ff2.avif",
+    "index.html": "/index.html",
+    "main.86b5b6b1.css.map": "/static/css/main.86b5b6b1.css.map",
+    "main.b84f9688.js.map": "/static/js/main.b84f9688.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b5b6b1.css",
+    "static/js/main.b84f9688.js"
+  ]
+}
